@@ -1,3 +1,5 @@
+# stock picker challenge
+
 def stock_picker(arr)
   final_array = []
   positions_tracker = []
